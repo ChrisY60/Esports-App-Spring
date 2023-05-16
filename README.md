@@ -1,3 +1,4 @@
 # Esports-App-Spring
 
-![image](https://github.com/ChrisY60/Esports-App-Spring/assets/39673325/54ab5a40-bce5-4b9b-9483-0088397672b4)
+![image](https://github.com/ChrisY60/Esports-App-Spring/assets/39673325/f7b389c4-d8bf-4b5b-9461-9ade0836a87c)
+
